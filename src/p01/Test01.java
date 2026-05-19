@@ -10,6 +10,7 @@ public class Test01 {
 		System.out.println("荒井です");
 
 		System.out.println("A");
+		
 
 
 }
