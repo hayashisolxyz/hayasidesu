@@ -7,7 +7,7 @@ public class Test01 {
 		System.out.println("はやしです");
 		System.out.println("やまもとです");
 		System.out.println("荒井です");
-		System.out.println("荒井です");
+		System.out.println("難しい");
 	}
 
 }
