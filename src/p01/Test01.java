@@ -6,6 +6,8 @@ public class Test01 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("はやしです");
 		System.out.println("やまもとです");
+		System.out.print("A");
+		
 	}
 
 }
